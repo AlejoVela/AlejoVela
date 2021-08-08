@@ -6,4 +6,3 @@ I enjoy make code with **Java** and **js** (and in my free time i'm coding with 
 I like play classic guitar and video games in my free time, and i like to think how were those videogames coding.
 
 🏙 [Perfil Linkedin](https://www.linkedin.com/in/diego-alejandro-restrepo-vela-49aa5918a/)
-<a href="https://www.linkedin.com/in/diego-alejandro-restrepo-vela-49aa5918a/">Linkedin</a>
