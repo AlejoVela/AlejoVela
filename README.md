@@ -26,6 +26,7 @@ I like play classic guitar and video games in my free time, and i like to think 
 <a href="https://www.java.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="" width="40" height="40"/></a>
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-line.svg" alt="" width="40" height="40"/></a>
 <a href="https://www.arduino.cc" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg" alt="" width="40" height="40"/></a>
+<a href="https://angular.io"><img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" alt="" width="40" height="40"/></a>
 </div>
 <hr />
 <div align="center">
@@ -35,7 +36,6 @@ I like play classic guitar and video games in my free time, and i like to think 
 </div>
 <!--
 On progress
-<a href=""><img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" alt="" width="40" height="40"/></a>
 <a href=""><img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="" width="40" height="40"/></a>
 <a href=""><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="" width="40" height="40"/></a>
 <a href=""><img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="" width="40" height="40"/></a>
