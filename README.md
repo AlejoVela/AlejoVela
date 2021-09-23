@@ -32,8 +32,7 @@ I like play classic guitar and video games in my free time, and i like to think 
 <hr />
 <div align="center">
 <a href="https://www.linkedin.com/in/diego-alejandro-restrepo-vela-49aa5918a/" style="text-decoration:none;color:black;" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="" width="40" height="40"/> Perfil Linkedin</a>
-<a href="#" style="text-decoration:none;color:black;" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/facebook/facebook-original.svg" alt="" width="40" height="40"/> Perfil Facebook</a>
-<a href="#" style="text-decoration:none;color:black;" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" alt="" width="40" height="40"/> Perfil Twitter</a>
+<a href="https://twitter.com/AlejoVelaCode" style="text-decoration:none;color:black;" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" alt="" width="40" height="40"/> Perfil Twitter</a>
 </div>
 <!--
 On progress
