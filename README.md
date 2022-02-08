@@ -1,9 +1,9 @@
 <h1 align="center"> Hi, everyone!, my name is Diego Restrepo</h1>
-I'm a coder from Bogotá, Colombia. Currently i'm studing at university Francisco José de Caldas and i'm working in SIIGO S.A.S.
+I'm a coder from Bogotá, Colombia. Currently, I'm studying at the University Francisco José de Caldas and I'm working for SIIGO S.A.S like a full-stack Jr.  
 
-I enjoy make code with **Java** and **JS** (and in my free time i'm coding with **c#** with unity) although also i have some basic experience in python, **c++** and php and some frameworks from **CSS** like **bootstrap 5**. Alongside my  university studies, i'm also learning advance skills for coding in full stack CodeCamp from fedesoft.
+I enjoy learning new technologies and I'm mainly working with .Net and Nodejs to do backend and Angular to frontend. Also, I like to use Unity and learn with videos of Freecodecamp.  
 
-I like play classic guitar and video games in my free time, and i like to think how were those videogames coding.
+I like to play Classic guitar and video games in my free time, and I like to think about how those video games are coding.  
 
 <h2 align="center">Skills</h2>
 <div align="center">
