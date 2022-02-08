@@ -26,8 +26,10 @@ I like play classic guitar and video games in my free time, and i like to think 
 <a href="https://developer.mozilla.org/es/docs/Web/JavaScript" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="" width="40" height="40"/></a>
 <a href="https://www.java.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="" width="40" height="40"/></a>
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-line.svg" alt="" width="40" height="40"/></a>
+<a href="https://dotnet.microsoft.com/en-us/"><img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original-wordmark.svg" alt="" width="40" height="40"/></a>
 <a href="https://www.arduino.cc" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg" alt="" width="40" height="40"/></a>
 <a href="https://angular.io"><img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" alt="" width="40" height="40"/></a>
+<a href="https://mochajs.org"><img src="https://github.com/devicons/devicon/blob/master/icons/mocha/mocha-plain.svg" alt="" width="40" height="40"/></a>
 </div>
 <hr />
 <div align="center">
@@ -39,7 +41,7 @@ On progress
 <a href=""><img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="" width="40" height="40"/></a>
 <a href=""><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="" width="40" height="40"/></a>
 <a href=""><img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="" width="40" height="40"/></a>
-<a href=""><img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original-wordmark.svg" alt="" width="40" height="40"/></a>
+
 <a href=""><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="" width="40" height="40"/></a>
 <a href=""><img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" alt="" width="40" height="40"/></a>
 <a href=""><img src="https://github.com/devicons/devicon/blob/master/icons/svelte/svelte-original-wordmark.svg" alt="" width="40" height="40"/></a>
