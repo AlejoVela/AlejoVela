@@ -27,6 +27,8 @@ I like to play Classic guitar and video games in my free time, and I like to thi
 <a href="https://www.java.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="" width="40" height="40"/></a>
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-line.svg" alt="" width="40" height="40"/></a>
 <a href="https://dotnet.microsoft.com/en-us/"><img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original-wordmark.svg" alt="" width="40" height="40"/></a>
+<a href="https://xunit.net"><img src="https://wrightfully.com/Images/posts/unittestworkshop/xunit-logo.png" alt="" width="60" height="40"/></a>  
+<a href="https://grpc.io"><img src="https://grpc.io/img/logos/grpc-logo.png" alt="" width="60" height="40"/></a>
 <a href="https://www.arduino.cc" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg" alt="" width="40" height="40"/></a>
 <a href="https://angular.io"><img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" alt="" width="40" height="40"/></a>
 <a href="https://mochajs.org"><img src="https://github.com/devicons/devicon/blob/master/icons/mocha/mocha-plain.svg" alt="" width="40" height="40"/></a>
