@@ -1,9 +1,7 @@
 <h1 align="center"> Hi, everyone!, my name is Diego Restrepo</h1>
-I'm a coder from Bogotá, Colombia. Currently, I'm studying at the University Francisco José de Caldas and I'm working for SIIGO S.A.S like a full-stack Jr.  
+With 5 years of experience as a software developer, I specialize in building scalable and efficient solutions across both backend and frontend ecosystems. My backend expertise spans frameworks like Spring Boot, .NET, and Node.js, while on the frontend I’ve worked extensively with Angular and React to deliver intuitive user experiences. I'm also well-versed in cloud computing technologies, particularly Microsoft Azure, enabling me to architect and deploy modern, cloud-native applications.
 
-I enjoy learning new technologies and I'm mainly working with .Net and Nodejs to do backend and Angular to frontend. Also, I like to use Unity and learn with videos of Freecodecamp.  
-
-I like to play Classic guitar and video games in my free time, and I like to think about how those video games are coding.  
+I thrive on solving complex challenges—whether it's untangling legacy code, optimizing performance, or designing systems from the ground up. Every problem is an opportunity to learn, improve, and build something better.
 
 <h2 align="center">Skills</h2>
 <div align="center">
